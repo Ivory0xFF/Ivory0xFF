@@ -1,4 +1,6 @@
-### Hi there 👋
+I code stuff from time to time (mostly in lua but c++ too)
+
+also tryna get into blender
 
 <!--
 **TessBrh/TessBrh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
